@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.slider-container {
+  margin: 10px;
+  width: 100%;
+}
+
+.slider {
+  width: 100%;
+}
+
+.num-container,
+.extent-container {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.num,
+.extent {
+  width: 100%;
+  text-align: center;
+}
