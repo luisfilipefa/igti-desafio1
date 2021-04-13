@@ -1,5 +1,5 @@
 # igti-fullstack-trabalho-pratico1
-primeiro trabalho prático do igti fullstack.
+Primeiro trabalho prático do bootcamp fullstack do igti. Transformar numeral em escrita por extenso.
 
 ## Overview
 Primeiro trabalho prático requisitado no bootcamp fullstack do Instituto de Gestão e Tecnologia da Informação, que consiste em transformar o numeral selecionado no slider em sua escrita por extenso.
